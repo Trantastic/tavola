@@ -9,8 +9,11 @@ This is web app designed to provide easy immediate access to the medical informa
 ## Demo ##
 
 Try it for yourself: 
-(https://tavola-2018.herokuapp.com/)[https://tavola-2018.herokuapp.com/]
-Staff Login: (https://tavola-2018.herokuapp.com/login)[https://tavola-2018.herokuapp.com/login]
+
+[https://tavola-2018.herokuapp.com/](https://tavola-2018.herokuapp.com/)
+
+Staff Login: [https://tavola-2018.herokuapp.com/login](https://tavola-2018.herokuapp.com/login)
+
 _Login: test
 Password: 1234_
 
