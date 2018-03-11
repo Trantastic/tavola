@@ -35,3 +35,7 @@ If you wish to run this app on your own computer please follow the instructions 
 * [Bootstrap v4](https://getbootstrap.com/docs/4.0/getting-started/introduction/)
 
 ## Future Development ##
+
+* Incorporate a weather, pollen, and air quality API that is displayed in the home page for teachers with students that have respiratory sensitivities and/or asthma.
+* Generate alerts via text of medical emergencies to parents' and teachers' phones.
+* In the staff section of the app, develop a log of students' prescriptions and preferred hospital.
