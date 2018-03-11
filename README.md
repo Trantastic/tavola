@@ -12,7 +12,8 @@ Try it for yourself: [https://tavola-2018.herokuapp.com/](https://tavola-2018.he
 
 Staff Login: [https://tavola-2018.herokuapp.com/login](https://tavola-2018.herokuapp.com/login)
 
-Login: _test_ Password: _1234_
+Login: _test_  
+Password: _1234_
 
 ## Getting Started ##
 
