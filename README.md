@@ -8,10 +8,10 @@ This is web app designed to provide easy immediate access to the medical informa
 
 ## Demo ##
 
-You can add a student:
+You can add a student:  
 ![](https://github.com/Trantastic/tavola/blob/master/public/img/demo1.gif)
 
-Once you log into the staff section, you can search for a student:
+Once you log into the staff section, you can search for a student:  
 ![](https://github.com/Trantastic/tavola/blob/master/public/img/demo2.gif)
 
 __Try it for yourself:__ [https://tavola-2018.herokuapp.com/](https://tavola-2018.herokuapp.com/)
