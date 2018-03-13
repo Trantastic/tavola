@@ -45,3 +45,4 @@ If you wish to run this app on your own computer please follow the instructions 
 * Incorporate a weather, pollen, and air quality API that is displayed in the home page for teachers with students that have respiratory sensitivities and/or asthma.
 * Generate alerts via text of medical emergencies to parents' and teachers' phones.
 * In the staff section of the app, develop a log of students' prescriptions and preferred hospital.
+* Create a separate login for parents, so that their id can be used to only show the student profiles from their child's class.
